@@ -1,1 +1,1 @@
-# Adicionando o primeiro arquivo
+# Adicionando o primeiro arquivo a partir do GitHub
