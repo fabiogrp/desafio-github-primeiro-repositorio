@@ -11,3 +11,8 @@ Repositório criado para entrega do primeiro desafio que é relacionado com o us
  
  #### Link do livro usado pelo professor Gleydson
  - [https://glysns.gitbook.io/java-basico/](https://glysns.gitbook.io/java-basico/)
+ 
+ #### Anotações
+ 
+  - Testar operador lógico XOR (^)
+  
