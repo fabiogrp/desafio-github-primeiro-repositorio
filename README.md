@@ -8,3 +8,6 @@ Repositório criado para entrega do primeiro desafio que é relacionado com o us
 
 #### Links para Download de várias versões do Open JDK Zulu
  - [https://www.azul.com/downloads-new/?package=jdk#zulu](https://www.azul.com/downloads-new/?package=jdk#zulu)
+ 
+ #### Link do livro usado pelo professor Gleydson
+ - [https://glysns.gitbook.io/java-basico/](https://glysns.gitbook.io/java-basico/)
