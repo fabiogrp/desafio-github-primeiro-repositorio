@@ -15,4 +15,5 @@ Repositório criado para entrega do primeiro desafio que é relacionado com o us
  #### Anotações
  
   - Testar operador lógico XOR (^)
+  - Refazer exercicio de Fatorial
   
