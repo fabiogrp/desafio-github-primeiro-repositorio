@@ -15,5 +15,5 @@ Repositório criado para entrega do primeiro desafio que é relacionado com o us
  #### Anotações
  
   - Testar operador lógico XOR (^)
-  - Refazer exercicio de Fatorial
+  - Refazer exercicio de Fatorial: Conhecendo a Linguagem de Programação Java ->Estrutura de Repetição e Arrays em Java -> Fatorial
   
